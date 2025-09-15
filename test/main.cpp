@@ -1,17 +1,22 @@
 #include <iostream>
+#include <cmath>
 
-int main()
+using namespace std;
+
+int main ();
 
 {
-
-   int a =8; 
-   int b =2;
-   std:: cout << " a + b ="<< ( a + b) << std:: endl;
-   std:: cout << " a + b ="<< ( a - b) << std:: endl;
-   std:: cout << " a + b ="<< ( a * b) << std:: endl;
-   std:: cout << " a + b ="<< ( a / b) << std:: endl;
-   
-
-
+    double x = 2.0 ; 
+    double expression = 2 * x * x - 1; 
+    double resulta = 
+    sqrt( racine carre ); 
+    
+        std:: cout << " pour x = " << x <<, sqrt( 2x^2 - 1 ) = " << resulta << end ; 
+        
+        
+        
+        return 0 ;
+        
 }
+
 
